@@ -11,4 +11,6 @@ and like this
 
 chr1	3036246	3036247	G	C	LG
 
-The orginal files that the program compares are also inculded in this project 
+The orginal files that the program compares can be found at this link
+https://goo.gl/rvhNne
+
