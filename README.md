@@ -1,5 +1,5 @@
 # LG-vs.-SM
-Small and very specific program that returns the unique elements of two genetic database files from mouse
+Small and very specific java  program that returns the unique elements of two genetic database files from mouse
 
 This program was built for a one time use situation and will only supprt data in a very specific format
 
